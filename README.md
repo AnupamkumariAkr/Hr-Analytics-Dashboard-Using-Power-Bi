@@ -1,24 +1,10 @@
 # Hr-Analytics-Dashboard-Using-Power-Bi
 
-# HR-Analytics-Dashboard-Using-Tableau
-
-
 <p align="center">
   <img width="700" height="170" src="https://user-images.githubusercontent.com/124501309/227756844-5972e656-be9a-4c97-a0a0-ef5aae750a12.png">
 </p>
 
-## Links:
-Lets Connect 
-
-[Go to my LinkedIn](https://www.linkedin.com/in/
-anupam-kumari-5717ab214
-/) 🌐
-
-[Go to My Dashboard](https://https://public.tableau.com/views/HRANALYTICSDASHBOARD1_17073035960630/HRANALYTICSDASHBOARD?:language=en-GB&:display_count=n&:origin=viz_share_link)
-
-## PROJECT NAME:
-
-#### HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
+#### HR Analytics: A Complete Employee Data Analysis Project using Power Bi Dashboard
 
 ## ABOUT PROJECT:
 
@@ -84,21 +70,6 @@ This includes trendline and target line to help HR managers track progress towar
 
 
 
-
-
-
-![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
-
-
-### DASHBOARD VIDEO:
-
-
-
-
-
-
-
-https://user-images.githubusercontent.com/124501309/227794176-ee1b6f90-9078-41aa-a185-914f27d5215d.mp4
 
 
 ### DASHBOARD OVERVIEW:
